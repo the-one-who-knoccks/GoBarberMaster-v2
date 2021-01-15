@@ -13,7 +13,7 @@ Front-end GoBarber
 </p>   
  
 [//]: # (Add your gifs/images here:) 
-<div>
+<div> 
   <img src="/Front-end/prev/gif-prev.gif" alt="demo" height="425">
 </div> 
 
